@@ -1,0 +1,2 @@
+This file is created by Ritesh using with open.
+This second line added using  writelines.
